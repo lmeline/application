@@ -1,0 +1,38 @@
+a {
+    text-decoration: none;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    color : #bfbfbf;
+    background: black;
+    font-family: 'Futura-Medium','Futura','Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: white;
+    
+}
+.titreBillet{
+    margin-bottom: 0;
+}
+
+#global{
+    min-height: 100%;
+    background: #333534;
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    padding: 5px 20px;
+}
+
+main {
+    margin-bottom: 30px;
+}
+
+#titreBlog, footer {
+    text-align: center;
+}
